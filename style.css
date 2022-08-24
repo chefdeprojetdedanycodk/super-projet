@@ -4,5 +4,7 @@ body{
     background-repeat: no-repeat;
 }
 h1{
-color: red;
+
+color: yellow;
+border-radius: 5px;
 }
